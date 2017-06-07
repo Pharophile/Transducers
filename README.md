@@ -1,6 +1,9 @@
 # Transducers
 Composable Algorithm Transformations
 
+by Steffen Märcker 
+
+
 Transducers are building blocks that encapsulate how to process elements
 of a data sequence independently of the underlying input and output source.
 
