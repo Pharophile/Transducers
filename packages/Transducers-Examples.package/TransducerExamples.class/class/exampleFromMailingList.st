@@ -1,4 +1,4 @@
-as yet unclassified
+examples
 exampleFromMailingList
 	| scale sides count collect experiment samples coin flip |
 	scale := [ :x | (x * 2 + 1) floor ] map.
