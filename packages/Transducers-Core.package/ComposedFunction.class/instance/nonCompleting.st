@@ -1,0 +1,4 @@
+*Transducers-completing
+nonCompleting
+	
+	^self

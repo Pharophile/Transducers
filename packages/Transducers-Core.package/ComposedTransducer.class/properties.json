@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Transducer",
+	"category" : "Transducers-Core-Transducers-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"first",
+		"second"
+	],
+	"name" : "ComposedTransducer",
+	"type" : "normal"
+}

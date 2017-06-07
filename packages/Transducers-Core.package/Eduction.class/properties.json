@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Reducible",
+	"category" : "Transducers-Core-Transducers-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"transducer",
+		"reducible"
+	],
+	"name" : "Eduction",
+	"type" : "normal"
+}

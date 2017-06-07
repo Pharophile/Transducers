@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Transducer",
+	"category" : "Transducers-Core-Transducers-Core",
+	"classinstvars" : [
+		"transducer"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SingletonTransducer",
+	"type" : "normal"
+}

@@ -1,0 +1,4 @@
+*Transducers-copying
+copy
+	
+	^self

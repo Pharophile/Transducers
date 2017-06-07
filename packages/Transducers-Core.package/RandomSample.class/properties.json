@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Transducer",
+	"category" : "Transducers-Core-Transducers-Core",
+	"classinstvars" : [
+		"random"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"random",
+		"probability"
+	],
+	"name" : "RandomSample",
+	"type" : "normal"
+}

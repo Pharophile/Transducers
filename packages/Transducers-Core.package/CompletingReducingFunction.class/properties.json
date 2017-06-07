@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "ReducingFunction",
+	"category" : "Transducers-Core-Transducers-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"function",
+		"completing"
+	],
+	"name" : "CompletingReducingFunction",
+	"type" : "normal"
+}

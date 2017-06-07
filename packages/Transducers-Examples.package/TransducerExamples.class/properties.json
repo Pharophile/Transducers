@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "PhilippeBack 6/7/2017 21:48",
+	"super" : "Object",
+	"category" : "Transducers-Examples",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TransducerExamples",
+	"type" : "normal"
+}
